@@ -7,3 +7,4 @@ ___
 ### What I learned:
 - Reusable Components
 - Hooks
+- Routing & Links
